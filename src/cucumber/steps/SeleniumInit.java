@@ -1,4 +1,4 @@
-package cucumber.features;
+package cucumber.steps;
 
 import java.io.File;
 import java.io.IOException;
